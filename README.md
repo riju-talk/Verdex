@@ -3,9 +3,9 @@
 > **Empowering people worldwide to act on climate through AI-powered environmental monitoring, real-time insights, and collaborative citizen science.**
 
 [![Live Platform](https://img.shields.io/badge/Status-Live%20Platform-green.svg)](https://verdex.dev)
-[![Next.js](https://img.shields.io/badge/Built%20with-Next.js-black.svg)](https://nextjs.org/)
+[![Built with React](https://img.shields.io/badge/Built%20with-React-blue.svg)](https://react.dev/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blue.svg)](https://openai.com/)
-[![Open Source](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Open Source](https://img.shields.io/badge/License-GLS-yellow.svg)](LICENSE)
 
 ## 🌱 What is Verdex?
 
